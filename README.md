@@ -12,3 +12,6 @@ flow google to anounce its bed time and phone is not charging.
 flow to check phone every 30 minutes and anounce my phone is below a set battery level. 
 
 Alexa actionable notification flow. 
+
+TV time flow automaticly turn down lights when RoKU player is playing and at set times and days. 
+
